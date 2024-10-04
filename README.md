@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on high frequency <br>trading systems. I have an interest in web<br>3 in particular decentralized finance such <br>as crypto, NFTs, smart contracts. I started <br>to code at 13 and am now a full stack <br> software developer.
+I'm currently working on high frequency <br>trading systems. I have an interest in web<br>3 in particular decentralized finance such <br>as crypto, NFTs, smart contracts. I started <br>to code at 13 and am now a full stack <br>developer.
 
 
 ## 🌐 Socials:
